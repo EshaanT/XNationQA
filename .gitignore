@@ -1,0 +1,46 @@
+# ---- Python basics ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- uv virtual environment ----
+.venv/
+.uv/
+uv.lock.bak
+
+# ---- Project files ----
+# Keep pyproject.toml and uv.lock (they define env)
+# Ignore any local temp or cache dirs
+*.log
+*.tmp
+*.swp
+*.bak
+
+# ---- Common tool caches ----
+.cache/
+.mypy_cache/
+.pytest_cache/
+coverage.xml
+htmlcov/
+dist/
+build/
+.eggs/
+*.egg-info/
+
+# ---- IDE / Editor specific ----
+.vscode/
+.idea/
+*.code-workspace
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+
+# ---- Notebooks ----
+.ipynb_checkpoints/
+
+# ---- Redundant
+
+.python-version
