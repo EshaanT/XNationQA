@@ -36,9 +36,9 @@ uv sync
 
 This will:
 
-Create a local .venv/
+- Create a local .venv/
 
-Install dependencies from your pyproject.toml and uv.lock files
+- Install dependencies from your pyproject.toml and uv.lock files
 
 If you’re setting up the environment for the first time:
 
