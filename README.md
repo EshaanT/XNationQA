@@ -1,7 +1,7 @@
 ## XNationQA
 
 <p align="center">
-  <img src="plots/XNationQA_logo.jpg" alt="XNationQA" width="600"/>
+  <img src="plots/XNationQA_logo.jpg" alt="XNationQA" width="200"/>
 </p>
 
 This is the official repository for the **EMNLP 2025** paper: **_"Do You Know About My Nation? Investigating Multilingual Language Models’ Cultural Literacy Through Factual Knowledge"_**.
